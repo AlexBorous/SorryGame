@@ -1,0 +1,118 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\SorryGame.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_211\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_131
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Match:		1.008.000_131
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_211
+Check launcher:	C:\Program Files\Java\jdk1.8.0_211\bin\javaw.exe (OK)
+Match:		1.008.000_211
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_241
+Check launcher:	C:\Program Files\Java\jre1.8.0_241\bin\javaw.exe (OK)
+Match:		1.008.000_241
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.008.000_241 (64-bit)
+Main class:	Controller.Controller
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_241\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\SorryGame.exe" Controller.Controller
+Args length:	117/32768 chars
+Exit code:	1
+
+
+Version:	3.12
+CmdLine:	C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\SorryGame.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\.
+Java min ver:	1.002.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_241\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_241
+Check launcher:	C:\Program Files\Java\jre1.8.0_241\bin\javaw.exe (OK)
+Match:		1.008.000_241
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.008.000_241 (64-bit)
+Main class:	Controller.Controller
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_241\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\SorryGame.exe" Controller.Controller
+Args length:	117/32768 chars
+Exit code:	1
+
+
+Version:	3.12
+CmdLine:	C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\SorryGame.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_211\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_131
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Match:		1.008.000_131
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_211
+Check launcher:	C:\Program Files\Java\jdk1.8.0_211\bin\javaw.exe (OK)
+Match:		1.008.000_211
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_211 (64-bit)
+Main class:	Controller.Controller
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk1.8.0_211\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\SorryGame.exe" Controller.Controller
+Args length:	117/32768 chars
+Exit code:	1
+
+
+Version:	3.12
+CmdLine:	C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\SorryGame.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_211\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_131
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Match:		1.008.000_131
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_211
+Check launcher:	C:\Program Files\Java\jdk1.8.0_211\bin\javaw.exe (OK)
+Match:		1.008.000_211
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_241
+Check launcher:	C:\Program Files\Java\jre1.8.0_241\bin\javaw.exe (OK)
+Match:		1.008.000_241
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.6
+Check launcher:	C:\Program Files\Java\jdk-11.0.6\bin\javaw.exe (OK)
+Match:		1.011.000_006
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.011.000_006 (64-bit)
+Main class:	Controller.Controller
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jdk-11.0.6\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Borous\OneDrive\JavaProject1\out\artifacts\JavaProject1_jar\SorryGame.exe" Controller.Controller
+Args length:	117/32768 chars
+Exit code:	0
